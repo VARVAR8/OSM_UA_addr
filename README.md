@@ -1,4 +1,4 @@
-osm-pg-tests
+OSM_UA_addr
 ============
 
 Following folders and files expected in binaries-folder:
